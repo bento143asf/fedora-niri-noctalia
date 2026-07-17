@@ -1,0 +1,12 @@
+[backdrop]
+enabled = true
+blur_intensity = 0.5
+tint_intensity = 0.3
+
+[wallpaper]
+enabled = true
+fill_mode = "crop"
+directory = "~/Pictures/Wallpapers"
+
+[wallpaper.default]
+path = "~/Pictures/Wallpapers/wallhaven_lyz5kr.jpg"
