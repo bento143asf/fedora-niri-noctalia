@@ -163,12 +163,4 @@ Huge thanks to the original authors for making their work available to the commu
 
 ---
 
-## License
-
-This repository contains my personal dotfiles.
-
-Please respect the licenses of any third-party projects referenced in the **Credits** section.
-
----
-
 Maintained by **143**.
