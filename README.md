@@ -6,7 +6,7 @@ My personal Fedora desktop configuration built around **Niri** and **Noctalia Sh
 >
 > This repository contains my personal configuration files. Some paths and settings may need to be adjusted for your own system.
 
----
+--- 
 
 ## Screenshots
 
