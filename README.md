@@ -1,4 +1,4 @@
-# Niri + Noctalia Shell v5 Fedora Dotfiles
+# Fedora Wayland Rice — Niri + Noctalia Shell
 
 My personal Fedora desktop configuration using:
 
@@ -13,7 +13,7 @@ My personal Fedora desktop configuration using:
 ## Structure
 
 ```text
-niri-noctalia-v5/
+fedora-niri-noctalia/
 ├── niri/
 │   └── config.kdl
 ├── noctalia/
@@ -55,8 +55,8 @@ imagemagick
 Clone the repository:
 
 ```bash
-git clone https://github.com/bento143asf/niri-noctalia-v5.git
-cd niri-noctalia-v5
+git clone https://github.com/bento143asf/fedora-niri-noctalia.git
+cd fedora-niri-noctalia
 ```
 
 Copy the files to their respective locations:
