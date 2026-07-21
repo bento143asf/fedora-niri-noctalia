@@ -44,6 +44,23 @@ My personal Fedora desktop configuration built around **Niri** and **Noctalia Sh
 
 ---
 
+## Fastfetch Logos
+
+* **Logos availables**
+* **Arch Linux**
+* **Artix Linux**
+* **CachyOS Linux**
+* **Debian GNU**
+* **EndeavourOS**
+* **Fedora**
+* **Gentoo Linux**
+* **Linux From Scratch**
+* **NixOS**
+* **Void Linux**
+* **Tux**
+
+---
+
 ## Structure
 
 ```text
