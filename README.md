@@ -40,7 +40,6 @@ My personal Fedora desktop configuration built around **Niri** and **Noctalia Sh
 * **Quickshell Wallpaper Picker** — visual wallpaper picker
 * **Matugen** — dynamic color generation
 * Custom wallpapers
-* Custom scripts
 
 ---
 
@@ -70,7 +69,6 @@ niri-noctalia-dotfiles/
 ├── niri/
 ├── noctalia/
 ├── screenshots/
-├── scripts/
 ├── wallpapers/
 └── README.md
 ```
@@ -128,7 +126,6 @@ Examples include:
 
 * Wallpaper directory
 * Avatar image
-* Personal scripts
 * Local cache paths
 * Monitor configuration
 * Hardware-specific settings
