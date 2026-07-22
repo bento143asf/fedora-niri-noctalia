@@ -1,4 +1,4 @@
-# Wayland Rice — Niri + Noctalia Shell v5
+# Arch/Fedora Wayland Rice — Niri + Noctalia Shell v5
 
 My personal Arch/Fedora desktop configuration built around **Niri** and **Noctalia Shell v5**.
 
